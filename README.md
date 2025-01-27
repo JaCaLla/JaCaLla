@@ -44,7 +44,7 @@ I love sharing knowledge about iOS development. Check out my latest posts:
 - [Bridging Data Transfer from WKWebView to iOS](https://javios.eu/swift/bridging-data-transfer-from-wkwebview-to-ios/)
 - [iOS NFC Development: From URLs to Deeplinks](https://javios.eu/uncategorized/ios-nfc-development-from-urls-to-deeplinks/)
 - [Harnessing NFC Technology in your iOS App](https://javios.eu/swift/harnessing-nfc-technology-in-your-ios-app/)
-- [https://javios.eu/swift/dip-your-toes-in-middle-of-tca-ocean/](https://javios.eu/swift/dip-your-toes-in-middle-of-tca-ocean/)
+- [Dip your toes in middle of TCA ocean](https://javios.eu/swift/dip-your-toes-in-middle-of-tca-ocean/)
 - [Dealing a REST API with Combine](https://javios.eu/swift/dealing-a-rest-api-with-combine/)
 - [Safely migrating persisted models in iOS to prevent crashes](https://javios.eu/swift/safely-migrating-persisted-models-in-ios-to-prevent-crashes/)
 - [Seamless Text Input with Your Voice on iOS](https://javios.eu/swift/seamless-text-input-with-your-voice-on-ios/)
