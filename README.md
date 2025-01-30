@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 
 <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge" width="100" height="100"> 
 
-[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Certified-blue)]([your-certification-url](https://www.credly.com/badges/a528f5c3-8e16-452d-aa16-6790821fc4bc/public_ur))
-
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Certified-blue)](https://www.credly.com/badges/a528f5c3-8e16-452d-aa16-6790821fc4bc/public_url)
 ---
 
 ## 🛠️ Skills & Technologies  
