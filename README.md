@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 
 ---
 
-[![GitHub Foundation Badge](https://img.shields.io/badge/GitHub%20Foundation-Member-blue?logo=github&style=for-the-badge)]([https://github.com/](https://www.credly.com/badges/a528f5c3-8e16-452d-aa16-6790821fc4bc/public_url))
+[![GitHub Foundation Badge](https://img.shields.io/badge/GitHub%20Foundation-Member-blue?logo=github&style=for-the-badge)](https://www.credly.com/badges/a528f5c3-8e16-452d-aa16-6790821fc4bc/public_url)
 
 ---
 
