@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 
 ---
 
-## 📖 Blog & Resources  
+## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:  
 - [Testing an iOS Location Manager](https://javios.eu/test/testing-an-ios-location-manager/)
