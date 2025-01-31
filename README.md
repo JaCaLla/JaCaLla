@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Blog & Resources  
 
 I love sharing knowledge about iOS development. Check out my latest posts:  
+- [Testing an iOS Location Manager](https://javios.eu/test/testing-an-ios-location-manager/)
 - [Crafting a Simple iOS App Using GraphQL APIs](https://javios.eu/uncategorized/crafting-a-simple-ios-app-using-graphql-apis/)  
 - [Dynamic Forms in SwiftUI for variable section type](https://javios.eu/uncategorized/dynamic-forms-in-swiftui-for-variable-section-type/)
 - [Agnostic Swift Data](https://javios.eu/swift/agnostic-swift-data/)
