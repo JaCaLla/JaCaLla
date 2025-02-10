@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:  
+- [Real-Time Speed Limit Detection in iOS Using Vision](https://javios.eu/swift/real-time-speed-limit-detection-in-ios-using-vision/)
 - [Websockets Made Easy: Create a simple Chat App in iOS](https://javios.eu/swift/websockets-made-easy-create-a-simple-chat-app-in-ios/) 
 - [Testing an iOS Location Manager](https://javios.eu/test/testing-an-ios-location-manager/)
 - [Crafting a Simple iOS App Using GraphQL APIs](https://javios.eu/uncategorized/crafting-a-simple-ios-app-using-graphql-apis/)  
