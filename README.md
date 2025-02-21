@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
+- [Boosting iOS App Flexibility with Firebase Remote Config](https://javios.eu/swift/boosting-ios-app-flexibility-with-firebase-remote-config/) 
 - [Boost Security: Enable Touch ID & Face ID](https://javios.eu/swift/boost-security-enable-touch-id-face-id/)
 - [Unlocking Firebase iOS Push Notifications](https://javios.eu/swift/unlocking-firebase-ios-push-notifications/) 
 - [Real-Time Speed Limit Detection in iOS Using Vision](https://javios.eu/swift/real-time-speed-limit-detection-in-ios-using-vision/)
