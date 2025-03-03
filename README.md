@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
+- [Swift Package Manager Simplified](https://javios.eu/swift/swift-package-manager-simplified/) 
 - [Boost Your iOS Development with Preprocessing Directives](https://javios.eu/swift/boost-your-ios-development-with-preprocessing-directives/)
 - [Breaking retain cycles in Swift](https://javios.eu/uncategorized/breaking-retain-cycles-in-swift/)
 - [Boosting iOS App Flexibility with Firebase Remote Config](https://javios.eu/swift/boosting-ios-app-flexibility-with-firebase-remote-config/) 
