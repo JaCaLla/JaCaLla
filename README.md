@@ -40,7 +40,8 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
--  [Enhancing iOS Apps with Redis](https://javios.eu/swift/enhancing-ios-apps-with-redis/)
+- [Copy-on-Write in Swift: Managing Value Types](https://javios.eu/swift/copy-on-write-in-swift-managing-value-types/)
+- [Enhancing iOS Apps with Redis](https://javios.eu/swift/enhancing-ios-apps-with-redis/)
 - [Opaque types in Swift](https://javios.eu/swift/opaque-types-in-swift//)
 - [Swift Package Manager Simplified](https://javios.eu/swift/swift-package-manager-simplified/) 
 - [Boost Your iOS Development with Preprocessing Directives](https://javios.eu/swift/boost-your-ios-development-with-preprocessing-directives/)
