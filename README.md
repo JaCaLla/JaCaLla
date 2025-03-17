@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
+- [S.O.L.I.D. principles in Swift](https://javios.eu/uncategorized/solid-principles-in-swift/)
 - [Copy-on-Write in Swift: Managing Value Types](https://javios.eu/swift/copy-on-write-in-swift-managing-value-types/)
 - [Enhancing iOS Apps with Redis](https://javios.eu/swift/enhancing-ios-apps-with-redis/)
 - [Opaque types in Swift](https://javios.eu/swift/opaque-types-in-swift//)
