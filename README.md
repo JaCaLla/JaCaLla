@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
+- [Declutter Your Codebase: Periphery for Dead Code Detection](https://javios.eu/swift/decluter-your-codebase/)
 - [Visual Regresion Testing: Implementing Snapshot test on iOS](https://javios.eu/test/snapshot-test-on-ios/)
 - [S.O.L.I.D. principles in Swift](https://javios.eu/uncategorized/solid-principles-in-swift/)
 - [Copy-on-Write in Swift: Managing Value Types](https://javios.eu/swift/copy-on-write-in-swift-managing-value-types/)
