@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
+- [Bitrise Magic: One-Click iOS Builds for Your QA Team](https://javios.eu/devops/bitrise-magic-one-click/)
 - [QR Code Scanning in iOS](https://javios.eu/swift/qr-code-scanning-in-ios/)
 - [Declutter Your Codebase: Periphery for Dead Code Detection](https://javios.eu/swift/decluter-your-codebase/)
 - [Visual Regresion Testing: Implementing Snapshot test on iOS](https://javios.eu/test/snapshot-test-on-ios/)
