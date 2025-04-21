@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
+- [Inside the iOS Sandbox: Managing Files and Folders](https://javios.eu/uncategorized/inside-the-ios-sandbox/)
 - [Switching App Language on the Fly in Swift](https://javios.eu/swift/qr-code-scanning-in-ios/)
 - [Bitrise Magic: One-Click iOS Builds for Your QA Team](https://javios.eu/devops/bitrise-magic-one-click/)
 - [QR Code Scanning in iOS](https://javios.eu/swift/qr-code-scanning-in-ios/)
