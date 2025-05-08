@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
+-  [Seamless Apple Sign-In for iOS Apps with a Node.js Backend](https://javios.eu/uncategorized/seamless-apple-sign-in-for-ios/)
 - [Dependency Injection implementations in Swift](https://javios.eu/architecture/dependency-injection/)
 - [Storing in the Sky: iCloud Integration for iOS](https://javios.eu/swift/storing-in-the-sky/)
 - [Inside the iOS Sandbox: Managing Files and Folders](https://javios.eu/uncategorized/inside-the-ios-sandbox/)
