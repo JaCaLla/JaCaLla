@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I love sharing knowledge about iOS development. Check out my latest posts:
-- [Tired of Repeating Configs in Every Target?](https://javios.eu/uncategorized/tired-of-repeating-configs/)
+- [Tired of Repeating Configs in Every Target?](https://javios.eu/uncategorized/tired-of-repeating/)
 - [Seamless Apple Sign-In for iOS Apps with a Node.js Backend](https://javios.eu/uncategorized/seamless-apple-sign-in-for-ios/)
 - [Dependency Injection implementations in Swift](https://javios.eu/architecture/dependency-injection/)
 - [Storing in the Sky: iCloud Integration for iOS](https://javios.eu/swift/storing-in-the-sky/)
