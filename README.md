@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 
 [![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Certified-blue)](https://www.credly.com/badges/a528f5c3-8e16-452d-aa16-6790821fc4bc/public_url)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Certified-blue)](https://www.credly.com/badges/346378c7-9a68-4df1-a2ba-1b28dbefeb11/public_url)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazonaws)](https://www.credly.com/badges/YOUR-BADGE-ID)
+
 
 ---
 
