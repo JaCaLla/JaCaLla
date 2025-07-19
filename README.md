@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Visual Accessibilty in iOS](https://javios.eu/uncategorized/visual-accessibilty-in-ios/)
 - [Maintain, Share, Repeat: iOS Component Distribution](https://javios.eu/swift/maintain-share-r…at-ios-component/)
 - [Seamless Keychain Data Migrations in iOS](https://javios.eu/swift/seamless-keychain-data-migrations/)
 - [Alternative to .xcodeproj Chaos: Intro to Tuist for iOS Newbies](https://javios.eu/xcode/alternative-to-xcodeproj-chaos-intro-to-tuist-for-ios-newbies/)
