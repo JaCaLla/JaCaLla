@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [New Icon Composer with XCode 26](https://javios.eu/dessign/new-icon-composer-with-xcode-26/) 
 - [Interaction and Media Accessibility in iOS](https://javios.eu/accessibility/interaction-and-media-accessibility-in-ios/)
 - [Less Fetching, More Speed: NSCache in Action](https://javios.eu/swift/less-fetching-more-speed/)
 - [Visual Accessibilty in iOS](https://javios.eu/uncategorized/visual-accessibilty-in-ios/)
