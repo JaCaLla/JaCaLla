@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Xcode 16: Alternate App Icons in iOS](https://javios.eu/uncategorized/xcode-16-alternate-app-icons-in-ios/)
 - [iOS Dev between Combine and Delegate/Closure](https://javios.eu/architecture/ios-dev-between-combine-and-delegate-closure/)
 - [Goodbye Raw Strings, Hello swift-tagged](https://javios.eu/uncategorized/goodbye-raw-strings-hello-swift-tagged/) 
 - [Dynamic Island: iOS Live Activities Guide](https://javios.eu/swift/dynamic-island-ios-live-activities-guide/)
