@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Protect sensitive information in SwiftUI](https://javios.eu/swiftui/protect-sensitive-information-in-swiftui/)
 - [Rules to write CLEAN code in Swift](https://javios.eu/architecture/rules-to-write-clean-code-in-swift/) 
 - [Xcode 16: Alternate App Icons in iOS](https://javios.eu/uncategorized/xcode-16-alternate-app-icons-in-ios/)
 - [iOS Dev between Combine and Delegate/Closure](https://javios.eu/architecture/ios-dev-between-combine-and-delegate-closure/)
