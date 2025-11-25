@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Stopping DoS Attacks: Vapor + Redis](https://javios.eu/vapor/stopping-dos-attacks-vapor-redis//)
 - [Customize Vapor Server Configuration](https://javios.eu/vapor/customizing-vapor-server-configurations/)
 - [Protect sensitive information in SwiftUI](https://javios.eu/swiftui/protect-sensitive-information-in-swiftui/)
 - [Rules to write CLEAN code in Swift](https://javios.eu/architecture/rules-to-write-clean-code-in-swift/) 
