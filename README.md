@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Maximizin enum in Swift Development](https://javios.eu/uncategorized/maximizing-enum-in-swift-development/)
 - [Stopping DoS Attacks: Vapor + Redis](https://javios.eu/vapor/stopping-dos-attacks-vapor-redis//)
 - [Customize Vapor Server Configuration](https://javios.eu/vapor/customizing-vapor-server-configurations/)
 - [Protect sensitive information in SwiftUI](https://javios.eu/swiftui/protect-sensitive-information-in-swiftui/)
