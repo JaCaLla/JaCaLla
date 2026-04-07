@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Customized TabBar in SwiftUI](https://javios.eu/swiftui/customized-tabbar-in-swiftui/)
 - [Daily Swift Combine by example](https://javios.eu/combine/daily-swift-combine-by-example/)
 - [Different approximations with MVVM](https://javios.eu/dessign-patterns/different-aproximations-with-mvvm/)
 - [Maximizin enum in Swift Development](https://javios.eu/uncategorized/maximizing-enum-in-swift-development/)
