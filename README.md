@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Multiplatform ANSI C on iOS](https://javios.eu/architecture/how-to-compile-c-logic-for-the-ios-ecosystem-synapsec-1-3/)
 - [Customized TabBar in SwiftUI](https://javios.eu/swiftui/customized-tabbar-in-swiftui/)
 - [Daily Swift Combine by example](https://javios.eu/combine/daily-swift-combine-by-example/)
 - [Different approximations with MVVM](https://javios.eu/dessign-patterns/different-aproximations-with-mvvm/)
