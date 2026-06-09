@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Dockerizing a C Component with Vapor](https://javios.eu/architecture/hosting-a-shared-ansi-c-component-on-a-vapor-server-dockerized/) 
 - [Multiplatform ANSI C on Android (and iOS)](https://javios.eu/architecture/multiplatform-ansi-c-on-android-and-ios/)
 - [Multiplatform ANSI C on iOS](https://javios.eu/architecture/how-to-compile-c-logic-for-the-ios-ecosystem-synapsec-1-3/)
 - [Customized TabBar in SwiftUI](https://javios.eu/swiftui/customized-tabbar-in-swiftui/)
