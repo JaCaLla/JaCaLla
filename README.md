@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Integrating Vapor into Native macOS Apps](https://javios.eu/vapor/integrating-vapor-into-native-macos-apps/)
 - [Dockerizing a C Component with Vapor](https://javios.eu/architecture/hosting-a-shared-ansi-c-component-on-a-vapor-server-dockerized/) 
 - [Multiplatform ANSI C on Android (and iOS)](https://javios.eu/architecture/multiplatform-ansi-c-on-android-and-ios/)
 - [Multiplatform ANSI C on iOS](https://javios.eu/architecture/how-to-compile-c-logic-for-the-ios-ecosystem-synapsec-1-3/)
