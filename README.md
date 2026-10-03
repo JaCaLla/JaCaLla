@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 - **Tools:** Xcode, CocoaPods, Swift Package Manager, Git  
 - **Testing:** XCTest, TestFlight  
 - **Design:** Figma, Sketch, Zeplin (collaborating with designers for seamless UI/UX)  
-- **CI/CD:** Fastlane, GitHub Actions, Bitrise, Jenkins
+- **CI/CD:** GitLab, Fastlane, GitHub Actions, Bitrise, Jenkins
 - **Other Expertise:** REST APIs, Firebase, CoreML
 
 ---
