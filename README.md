@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating intuitive, scalable,
 ## 📖 Posts
 
 I like sharing knowledge about iOS development. Check out my latest posts:
+- [Attesting Secure Enclave generated keys](https://javios.eu/security/attesting-secure-enclave-generated-keys/)
 - [Signing iOS App data using Secure Enclave](https://javios.eu/security/signing-ios-app-data-using-secure-enclave/) 
 - [Decorator Pattern in Swift](https://javios.eu/architecture/decorator-pattern-in-swift/)
 - [Integrating Vapor into Native macOS Apps](https://javios.eu/vapor/integrating-vapor-into-native-macos-apps/)
